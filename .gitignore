@@ -1,0 +1,8 @@
+
+**/.DS_Store
+/.ipynb_checkpoints
+.vscode/*
+__pycaches__/*
+/*.code-workspace
+*.aux
+*.gz
